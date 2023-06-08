@@ -1,1 +1,1 @@
-# deploy-lambda
+# lambda-deploy
